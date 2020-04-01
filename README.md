@@ -1,6 +1,6 @@
 # FileContentTypes
 
-var contentTypeList = {
+File Conent Types
 
 ".323": "text/h323",
 ".3g2": "video/3gpp2",
@@ -562,4 +562,3 @@ var contentTypeList = {
 ".xwd": "image/x-xwindowdump",
 ".z": "application/x-compress",
 ".zip": "application/x-zip-compressed"
-}
