@@ -2,563 +2,563 @@
 
 File Conent Types
 
-".323": "text/h323",
-".3g2": "video/3gpp2",
-".3gp": "video/3gpp",
-".3gp2": "video/3gpp2",
-".3gpp": "video/3gpp",
-".7z": "application/x-7z-compressed",
-".aa": "audio/audible",
-".AAC": "audio/aac",
-".aaf": "application/octet-stream",
-".aax": "audio/vnd.audible.aax",
-".ac3": "audio/ac3",
-".aca": "application/octet-stream",
-".accda": "application/msaccess.addin",
-".accdb": "application/msaccess",
-".accdc": "application/msaccess.cab",
-".accde": "application/msaccess",
-".accdr": "application/msaccess.runtime",
-".accdt": "application/msaccess",
-".accdw": "application/msaccess.webapplication",
-".accft": "application/msaccess.ftemplate",
-".acx": "application/internet-property-stream",
-".AddIn": "text/xml",
-".ade": "application/msaccess",
-".adobebridge": "application/x-bridge-url",
-".adp": "application/msaccess",
-".ADT": "audio/vnd.dlna.adts",
-".ADTS": "audio/aac",
-".afm": "application/octet-stream",
-".ai": "application/postscript",
-".aif": "audio/x-aiff",
-".aifc": "audio/aiff",
-".aiff": "audio/aiff",
-".air": "application/vnd.adobe.air-application-installer-package+zip",
-".amc": "application/x-mpeg",
-".application": "application/x-ms-application",
-".art": "image/x-jg",
-".asa": "application/xml",
-".asax": "application/xml",
-".ascx": "application/xml",
-".asd": "application/octet-stream",
-".asf": "video/x-ms-asf",
-".ashx": "application/xml",
-".asi": "application/octet-stream",
-".asm": "text/plain",
-".asmx": "application/xml",
-".aspx": "application/xml",
-".asr": "video/x-ms-asf",
-".asx": "video/x-ms-asf",
-".atom": "application/atom+xml",
-".au": "audio/basic",
-".avi": "video/x-msvideo",
-".axs": "application/olescript",
-".bas": "text/plain",
-".bcpio": "application/x-bcpio",
-".bin": "application/octet-stream",
-".bmp": "image/bmp",
-".c": "text/plain",
-".cab": "application/octet-stream",
-".caf": "audio/x-caf",
-".calx": "application/vnd.ms-office.calx",
-".cat": "application/vnd.ms-pki.seccat",
-".cc": "text/plain",
-".cd": "text/plain",
-".cdda": "audio/aiff",
-".cdf": "application/x-cdf",
-".cer": "application/x-x509-ca-cert",
-".chm": "application/octet-stream",
-".class": "application/x-java-applet",
-".clp": "application/x-msclip",
-".cmx": "image/x-cmx",
-".cnf": "text/plain",
-".cod": "image/cis-cod",
-".config": "application/xml",
-".contact": "text/x-ms-contact",
-".coverage": "application/xml",
-".cpio": "application/x-cpio",
-".cpp": "text/plain",
-".crd": "application/x-mscardfile",
-".crl": "application/pkix-crl",
-".crt": "application/x-x509-ca-cert",
-".cs": "text/plain",
-".csdproj": "text/plain",
-".csh": "application/x-csh",
-".csproj": "text/plain",
-".css": "text/css",
-".csv": "text/csv",
-".cur": "application/octet-stream",
-".cxx": "text/plain",
-".dat": "application/octet-stream",
-".datasource": "application/xml",
-".dbproj": "text/plain",
-".dcr": "application/x-director",
-".def": "text/plain",
-".deploy": "application/octet-stream",
-".der": "application/x-x509-ca-cert",
-".dgml": "application/xml",
-".dib": "image/bmp",
-".dif": "video/x-dv",
-".dir": "application/x-director",
-".disco": "text/xml",
-".dll": "application/x-msdownload",
-".dll.config": "text/xml",
-".dlm": "text/dlm",
-".doc": "application/msword",
-".docm": "application/vnd.ms-word.document.macroEnabled.12",
-".docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-".dot": "application/msword",
-".dotm": "application/vnd.ms-word.template.macroEnabled.12",
-".dotx": "application/vnd.openxmlformats-officedocument.wordprocessingml.template",
-".dsp": "application/octet-stream",
-".dsw": "text/plain",
-".dtd": "text/xml",
-".dtsConfig": "text/xml",
-".dv": "video/x-dv",
-".dvi": "application/x-dvi",
-".dwf": "drawing/x-dwf",
-".dwp": "application/octet-stream",
-".dxr": "application/x-director",
-".eml": "message/rfc822",
-".emz": "application/octet-stream",
-".eot": "application/octet-stream",
-".eps": "application/postscript",
-".etl": "application/etl",
-".etx": "text/x-setext",
-".evy": "application/envoy",
-".exe": "application/octet-stream",
-".exe.config": "text/xml",
-".fdf": "application/vnd.fdf",
-".fif": "application/fractals",
-".filters": "Application/xml",
-".fla": "application/octet-stream",
-".flr": "x-world/x-vrml",
-".flv": "video/x-flv",
-".fsscript": "application/fsharp-script",
-".fsx": "application/fsharp-script",
-".generictest": "application/xml",
-".gif": "image/gif",
-".group": "text/x-ms-group",
-".gsm": "audio/x-gsm",
-".gtar": "application/x-gtar",
-".gz": "application/x-gzip",
-".h": "text/plain",
-".hdf": "application/x-hdf",
-".hdml": "text/x-hdml",
-".hhc": "application/x-oleobject",
-".hhk": "application/octet-stream",
-".hhp": "application/octet-stream",
-".hlp": "application/winhlp",
-".hpp": "text/plain",
-".hqx": "application/mac-binhex40",
-".hta": "application/hta",
-".htc": "text/x-component",
-".htm": "text/html",
-".html": "text/html",
-".htt": "text/webviewhtml",
-".hxa": "application/xml",
-".hxc": "application/xml",
-".hxd": "application/octet-stream",
-".hxe": "application/xml",
-".hxf": "application/xml",
-".hxh": "application/octet-stream",
-".hxi": "application/octet-stream",
-".hxk": "application/xml",
-".hxq": "application/octet-stream",
-".hxr": "application/octet-stream",
-".hxs": "application/octet-stream",
-".hxt": "text/html",
-".hxv": "application/xml",
-".hxw": "application/octet-stream",
-".hxx": "text/plain",
-".i": "text/plain",
-".ico": "image/x-icon",
-".ics": "application/octet-stream",
-".idl": "text/plain",
-".ief": "image/ief",
-".iii": "application/x-iphone",
-".inc": "text/plain",
-".inf": "application/octet-stream",
-".inl": "text/plain",
-".ins": "application/x-internet-signup",
-".ipa": "application/x-itunes-ipa",
-".ipg": "application/x-itunes-ipg",
-".ipproj": "text/plain",
-".ipsw": "application/x-itunes-ipsw",
-".iqy": "text/x-ms-iqy",
-".isp": "application/x-internet-signup",
-".ite": "application/x-itunes-ite",
-".itlp": "application/x-itunes-itlp",
-".itms": "application/x-itunes-itms",
-".itpc": "application/x-itunes-itpc",
-".IVF": "video/x-ivf",
-".jar": "application/java-archive",
-".java": "application/octet-stream",
-".jck": "application/liquidmotion",
-".jcz": "application/liquidmotion",
-".jfif": "image/pjpeg",
-".jnlp": "application/x-java-jnlp-file",
-".jpb": "application/octet-stream",
-".jpe": "image/jpeg",
-".jpeg": "image/jpeg",
-".jpg": "image/jpeg",
-".js": "application/x-javascript",
-".json": "application/json",
-".jsx": "text/jscript",
-".jsxbin": "text/plain",
-".latex": "application/x-latex",
-".library-ms": "application/windows-library+xml",
-".lit": "application/x-ms-reader",
-".loadtest": "application/xml",
-".lpk": "application/octet-stream",
-".lsf": "video/x-la-asf",
-".lst": "text/plain",
-".lsx": "video/x-la-asf",
-".lzh": "application/octet-stream",
-".m13": "application/x-msmediaview",
-".m14": "application/x-msmediaview",
-".m1v": "video/mpeg",
-".m2t": "video/vnd.dlna.mpeg-tts",
-".m2ts": "video/vnd.dlna.mpeg-tts",
-".m2v": "video/mpeg",
-".m3u": "audio/x-mpegurl",
-".m3u8": "audio/x-mpegurl",
-".m4a": "audio/m4a",
-".m4b": "audio/m4b",
-".m4p": "audio/m4p",
-".m4r": "audio/x-m4r",
-".m4v": "video/x-m4v",
-".mac": "image/x-macpaint",
-".mak": "text/plain",
-".man": "application/x-troff-man",
-".manifest": "application/x-ms-manifest",
-".map": "text/plain",
-".master": "application/xml",
-".mda": "application/msaccess",
-".mdb": "application/x-msaccess",
-".mde": "application/msaccess",
-".mdp": "application/octet-stream",
-".me": "application/x-troff-me",
-".mfp": "application/x-shockwave-flash",
-".mht": "message/rfc822",
-".mhtml": "message/rfc822",
-".mid": "audio/mid",
-".midi": "audio/mid",
-".mix": "application/octet-stream",
-".mk": "text/plain",
-".mmf": "application/x-smaf",
-".mno": "text/xml",
-".mny": "application/x-msmoney",
-".mod": "video/mpeg",
-".mov": "video/quicktime",
-".movie": "video/x-sgi-movie",
-".mp2": "video/mpeg",
-".mp2v": "video/mpeg",
-".mp3": "audio/mpeg",
-".mp4": "video/mp4",
-".mp4v": "video/mp4",
-".mpa": "video/mpeg",
-".mpe": "video/mpeg",
-".mpeg": "video/mpeg",
-".mpf": "application/vnd.ms-mediapackage",
-".mpg": "video/mpeg",
-".mpp": "application/vnd.ms-project",
-".mpv2": "video/mpeg",
-".mqv": "video/quicktime",
-".ms": "application/x-troff-ms",
-".msi": "application/octet-stream",
-".mso": "application/octet-stream",
-".mts": "video/vnd.dlna.mpeg-tts",
-".mtx": "application/xml",
-".mvb": "application/x-msmediaview",
-".mvc": "application/x-miva-compiled",
-".mxp": "application/x-mmxp",
-".nc": "application/x-netcdf",
-".nsc": "video/x-ms-asf",
-".nws": "message/rfc822",
-".ocx": "application/octet-stream",
-".oda": "application/oda",
-".odc": "text/x-ms-odc",
-".odh": "text/plain",
-".odl": "text/plain",
-".odp": "application/vnd.oasis.opendocument.presentation",
-".ods": "application/oleobject",
-".odt": "application/vnd.oasis.opendocument.text",
-".one": "application/onenote",
-".onea": "application/onenote",
-".onepkg": "application/onenote",
-".onetmp": "application/onenote",
-".onetoc": "application/onenote",
-".onetoc2": "application/onenote",
-".orderedtest": "application/xml",
-".osdx": "application/opensearchdescription+xml",
-".p10": "application/pkcs10",
-".p12": "application/x-pkcs12",
-".p7b": "application/x-pkcs7-certificates",
-".p7c": "application/pkcs7-mime",
-".p7m": "application/pkcs7-mime",
-".p7r": "application/x-pkcs7-certreqresp",
-".p7s": "application/pkcs7-signature",
-".pbm": "image/x-portable-bitmap",
-".pcast": "application/x-podcast",
-".pct": "image/pict",
-".pcx": "application/octet-stream",
-".pcz": "application/octet-stream",
-".pdf": "application/pdf",
-".pfb": "application/octet-stream",
-".pfm": "application/octet-stream",
-".pfx": "application/x-pkcs12",
-".pgm": "image/x-portable-graymap",
-".pic": "image/pict",
-".pict": "image/pict",
-".pkgdef": "text/plain",
-".pkgundef": "text/plain",
-".pko": "application/vnd.ms-pki.pko",
-".pls": "audio/scpls",
-".pma": "application/x-perfmon",
-".pmc": "application/x-perfmon",
-".pml": "application/x-perfmon",
-".pmr": "application/x-perfmon",
-".pmw": "application/x-perfmon",
-".png": "image/png",
-".pnm": "image/x-portable-anymap",
-".pnt": "image/x-macpaint",
-".pntg": "image/x-macpaint",
-".pnz": "image/png",
-".pot": "application/vnd.ms-powerpoint",
-".potm": "application/vnd.ms-powerpoint.template.macroEnabled.12",
-".potx": "application/vnd.openxmlformats-officedocument.presentationml.template",
-".ppa": "application/vnd.ms-powerpoint",
-".ppam": "application/vnd.ms-powerpoint.addin.macroEnabled.12",
-".ppm": "image/x-portable-pixmap",
-".pps": "application/vnd.ms-powerpoint",
-".ppsm": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12",
-".ppsx": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
-".ppt": "application/vnd.ms-powerpoint",
-".pptm": "application/vnd.ms-powerpoint.presentation.macroEnabled.12",
-".pptx": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-".prf": "application/pics-rules",
-".prm": "application/octet-stream",
-".prx": "application/octet-stream",
-".ps": "application/postscript",
-".psc1": "application/PowerShell",
-".psd": "application/octet-stream",
-".psess": "application/xml",
-".psm": "application/octet-stream",
-".psp": "application/octet-stream",
-".pub": "application/x-mspublisher",
-".pwz": "application/vnd.ms-powerpoint",
-".qht": "text/x-html-insertion",
-".qhtm": "text/x-html-insertion",
-".qt": "video/quicktime",
-".qti": "image/x-quicktime",
-".qtif": "image/x-quicktime",
-".qtl": "application/x-quicktimeplayer",
-".qxd": "application/octet-stream",
-".ra": "audio/x-pn-realaudio",
-".ram": "audio/x-pn-realaudio",
-".rar": "application/octet-stream",
-".ras": "image/x-cmu-raster",
-".rat": "application/rat-file",
-".rc": "text/plain",
-".rc2": "text/plain",
-".rct": "text/plain",
-".rdlc": "application/xml",
-".resx": "application/xml",
-".rf": "image/vnd.rn-realflash",
-".rgb": "image/x-rgb",
-".rgs": "text/plain",
-".rm": "application/vnd.rn-realmedia",
-".rmi": "audio/mid",
-".rmp": "application/vnd.rn-rn_music_package",
-".roff": "application/x-troff",
-".rpm": "audio/x-pn-realaudio-plugin",
-".rqy": "text/x-ms-rqy",
-".rtf": "application/rtf",
-".rtx": "text/richtext",
-".ruleset": "application/xml",
-".s": "text/plain",
-".safariextz": "application/x-safari-safariextz",
-".scd": "application/x-msschedule",
-".sct": "text/scriptlet",
-".sd2": "audio/x-sd2",
-".sdp": "application/sdp",
-".sea": "application/octet-stream",
-".searchConnector-ms": "application/windows-search-connector+xml",
-".setpay": "application/set-payment-initiation",
-".setreg": "application/set-registration-initiation",
-".settings": "application/xml",
-".sgimb": "application/x-sgimb",
-".sgml": "text/sgml",
-".sh": "application/x-sh",
-".shar": "application/x-shar",
-".shtml": "text/html",
-".sit": "application/x-stuffit",
-".sitemap": "application/xml",
-".skin": "application/xml",
-".sldm": "application/vnd.ms-powerpoint.slide.macroEnabled.12",
-".sldx": "application/vnd.openxmlformats-officedocument.presentationml.slide",
-".slk": "application/vnd.ms-excel",
-".sln": "text/plain",
-".slupkg-ms": "application/x-ms-license",
-".smd": "audio/x-smd",
-".smi": "application/octet-stream",
-".smx": "audio/x-smd",
-".smz": "audio/x-smd",
-".snd": "audio/basic",
-".snippet": "application/xml",
-".snp": "application/octet-stream",
-".sol": "text/plain",
-".sor": "text/plain",
-".spc": "application/x-pkcs7-certificates",
-".spl": "application/futuresplash",
-".src": "application/x-wais-source",
-".srf": "text/plain",
-".SSISDeploymentManifest": "text/xml",
-".ssm": "application/streamingmedia",
-".sst": "application/vnd.ms-pki.certstore",
-".stl": "application/vnd.ms-pki.stl",
-".sv4cpio": "application/x-sv4cpio",
-".sv4crc": "application/x-sv4crc",
-".svc": "application/xml",
-".swf": "application/x-shockwave-flash",
-".t": "application/x-troff",
-".tar": "application/x-tar",
-".tcl": "application/x-tcl",
-".testrunconfig": "application/xml",
-".testsettings": "application/xml",
-".tex": "application/x-tex",
-".texi": "application/x-texinfo",
-".texinfo": "application/x-texinfo",
-".tgz": "application/x-compressed",
-".thmx": "application/vnd.ms-officetheme",
-".thn": "application/octet-stream",
-".tif": "image/tiff",
-".tiff": "image/tiff",
-".tlh": "text/plain",
-".tli": "text/plain",
-".toc": "application/octet-stream",
-".tr": "application/x-troff",
-".trm": "application/x-msterminal",
-".trx": "application/xml",
-".ts": "video/vnd.dlna.mpeg-tts",
-".tsv": "text/tab-separated-values",
-".ttf": "application/octet-stream",
-".tts": "video/vnd.dlna.mpeg-tts",
-".txt": "text/plain",
-".u32": "application/octet-stream",
-".uls": "text/iuls",
-".user": "text/plain",
-".ustar": "application/x-ustar",
-".vb": "text/plain",
-".vbdproj": "text/plain",
-".vbk": "video/mpeg",
-".vbproj": "text/plain",
-".vbs": "text/vbscript",
-".vcf": "text/x-vcard",
-".vcproj": "Application/xml",
-".vcs": "text/plain",
-".vcxproj": "Application/xml",
-".vddproj": "text/plain",
-".vdp": "text/plain",
-".vdproj": "text/plain",
-".vdx": "application/vnd.ms-visio.viewer",
-".vml": "text/xml",
-".vscontent": "application/xml",
-".vsct": "text/xml",
-".vsd": "application/vnd.visio",
-".vsi": "application/ms-vsi",
-".vsix": "application/vsix",
-".vsixlangpack": "text/xml",
-".vsixmanifest": "text/xml",
-".vsmdi": "application/xml",
-".vspscc": "text/plain",
-".vss": "application/vnd.visio",
-".vsscc": "text/plain",
-".vssettings": "text/xml",
-".vssscc": "text/plain",
-".vst": "application/vnd.visio",
-".vstemplate": "text/xml",
-".vsto": "application/x-ms-vsto",
-".vsw": "application/vnd.visio",
-".vsx": "application/vnd.visio",
-".vtx": "application/vnd.visio",
-".wav": "audio/wav",
-".wave": "audio/wav",
-".wax": "audio/x-ms-wax",
-".wbk": "application/msword",
-".wbmp": "image/vnd.wap.wbmp",
-".wcm": "application/vnd.ms-works",
-".wdb": "application/vnd.ms-works",
-".wdp": "image/vnd.ms-photo",
-".webarchive": "application/x-safari-webarchive",
-".webtest": "application/xml",
-".wiq": "application/xml",
-".wiz": "application/msword",
-".wks": "application/vnd.ms-works",
-".WLMP": "application/wlmoviemaker",
-".wlpginstall": "application/x-wlpg-detect",
-".wlpginstall3": "application/x-wlpg3-detect",
-".wm": "video/x-ms-wm",
-".wma": "audio/x-ms-wma",
-".wmd": "application/x-ms-wmd",
-".wmf": "application/x-msmetafile",
-".wml": "text/vnd.wap.wml",
-".wmlc": "application/vnd.wap.wmlc",
-".wmls": "text/vnd.wap.wmlscript",
-".wmlsc": "application/vnd.wap.wmlscriptc",
-".wmp": "video/x-ms-wmp",
-".wmv": "video/x-ms-wmv",
-".wmx": "video/x-ms-wmx",
-".wmz": "application/x-ms-wmz",
-".wpl": "application/vnd.ms-wpl",
-".wps": "application/vnd.ms-works",
-".wri": "application/x-mswrite",
-".wrl": "x-world/x-vrml",
-".wrz": "x-world/x-vrml",
-".wsc": "text/scriptlet",
-".wsdl": "text/xml",
-".wvx": "video/x-ms-wvx",
-".x": "application/directx",
-".xaf": "x-world/x-vrml",
-".xaml": "application/xaml+xml",
-".xap": "application/x-silverlight-app",
-".xbap": "application/x-ms-xbap",
-".xbm": "image/x-xbitmap",
-".xdr": "text/plain",
-".xht": "application/xhtml+xml",
-".xhtml": "application/xhtml+xml",
-".xla": "application/vnd.ms-excel",
-".xlam": "application/vnd.ms-excel.addin.macroEnabled.12",
-".xlc": "application/vnd.ms-excel",
-".xld": "application/vnd.ms-excel",
-".xlk": "application/vnd.ms-excel",
-".xll": "application/vnd.ms-excel",
-".xlm": "application/vnd.ms-excel",
-".xls": "application/vnd.ms-excel",
-".xlsb": "application/vnd.ms-excel.sheet.binary.macroEnabled.12",
-".xlsm": "application/vnd.ms-excel.sheet.macroEnabled.12",
-".xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-".xlt": "application/vnd.ms-excel",
-".xltm": "application/vnd.ms-excel.template.macroEnabled.12",
-".xltx": "application/vnd.openxmlformats-officedocument.spreadsheetml.template",
-".xlw": "application/vnd.ms-excel",
-".xml": "text/xml",
-".xmta": "application/xml",
-".xof": "x-world/x-vrml",
-".XOML": "text/plain",
-".xpm": "image/x-xpixmap",
-".xps": "application/vnd.ms-xpsdocument",
-".xrm-ms": "text/xml",
-".xsc": "application/xml",
-".xsd": "text/xml",
-".xsf": "text/xml",
-".xsl": "text/xml",
-".xslt": "text/xml",
-".xsn": "application/octet-stream",
-".xss": "application/xml",
-".xtp": "application/octet-stream",
-".xwd": "image/x-xwindowdump",
-".z": "application/x-compress",
-".zip": "application/x-zip-compressed"
+".323": "text/h323", <br>
+".3g2": "video/3gpp2", <br>
+".3gp": "video/3gpp", <br>
+".3gp2": "video/3gpp2", <br>
+".3gpp": "video/3gpp", <br>
+".7z": "application/x-7z-compressed", <br>
+".aa": "audio/audible", <br>
+".AAC": "audio/aac", <br>
+".aaf": "application/octet-stream", <br>
+".aax": "audio/vnd.audible.aax", <br>
+".ac3": "audio/ac3", <br>
+".aca": "application/octet-stream", <br>
+".accda": "application/msaccess.addin", <br>
+".accdb": "application/msaccess", <br>
+".accdc": "application/msaccess.cab", <br>
+".accde": "application/msaccess", <br>
+".accdr": "application/msaccess.runtime", <br>
+".accdt": "application/msaccess", <br>
+".accdw": "application/msaccess.webapplication", <br>
+".accft": "application/msaccess.ftemplate", <br>
+".acx": "application/internet-property-stream", <br>
+".AddIn": "text/xml", <br>
+".ade": "application/msaccess", <br>
+".adobebridge": "application/x-bridge-url", <br>
+".adp": "application/msaccess", <br>
+".ADT": "audio/vnd.dlna.adts", <br>
+".ADTS": "audio/aac", <br>
+".afm": "application/octet-stream", <br>
+".ai": "application/postscript", <br>
+".aif": "audio/x-aiff", <br>
+".aifc": "audio/aiff", <br>
+".aiff": "audio/aiff", <br>
+".air": "application/vnd.adobe.air-application-installer-package+zip",<br>
+".amc": "application/x-mpeg", <br>
+".application": "application/x-ms-application", <br>
+".art": "image/x-jg", <br>
+".asa": "application/xml", <br>
+".asax": "application/xml", <br>
+".ascx": "application/xml", <br>
+".asd": "application/octet-stream", <br>
+".asf": "video/x-ms-asf", <br>
+".ashx": "application/xml", <br>
+".asi": "application/octet-stream", <br>
+".asm": "text/plain", <br>
+".asmx": "application/xml", <br>
+".aspx": "application/xml", <br>
+".asr": "video/x-ms-asf", <br>
+".asx": "video/x-ms-asf", <br>
+".atom": "application/atom+xml", <br>
+".au": "audio/basic", <br>
+".avi": "video/x-msvideo", <br>
+".axs": "application/olescript", <br>
+".bas": "text/plain", <br>
+".bcpio": "application/x-bcpio", <br>
+".bin": "application/octet-stream", <br>
+".bmp": "image/bmp", <br>
+".c": "text/plain", <br>
+".cab": "application/octet-stream", <br>
+".caf": "audio/x-caf", <br>
+".calx": "application/vnd.ms-office.calx", <br>
+".cat": "application/vnd.ms-pki.seccat", <br>
+".cc": "text/plain", <br>
+".cd": "text/plain", <br>
+".cdda": "audio/aiff", <br>
+".cdf": "application/x-cdf", <br>
+".cer": "application/x-x509-ca-cert", <br>
+".chm": "application/octet-stream", <br>
+".class": "application/x-java-applet", <br>
+".clp": "application/x-msclip", <br>
+".cmx": "image/x-cmx", <br>
+".cnf": "text/plain", <br>
+".cod": "image/cis-cod", <br>
+".config": "application/xml", <br>
+".contact": "text/x-ms-contact", <br>
+".coverage": "application/xml", <br>
+".cpio": "application/x-cpio", <br>
+".cpp": "text/plain", <br>
+".crd": "application/x-mscardfile", <br>
+".crl": "application/pkix-crl", <br>
+".crt": "application/x-x509-ca-cert", <br>
+".cs": "text/plain", <br>
+".csdproj": "text/plain", <br>
+".csh": "application/x-csh", <br>
+".csproj": "text/plain", <br>
+".css": "text/css", <br>
+".csv": "text/csv", <br>
+".cur": "application/octet-stream", <br>
+".cxx": "text/plain", <br>
+".dat": "application/octet-stream", <br>
+".datasource": "application/xml", <br>
+".dbproj": "text/plain", <br>
+".dcr": "application/x-director", <br>
+".def": "text/plain", <br>
+".deploy": "application/octet-stream", <br>
+".der": "application/x-x509-ca-cert", <br>
+".dgml": "application/xml", <br>
+".dib": "image/bmp", <br>
+".dif": "video/x-dv", <br>
+".dir": "application/x-director", <br>
+".disco": "text/xml", <br>
+".dll": "application/x-msdownload", <br>
+".dll.config": "text/xml", <br>
+".dlm": "text/dlm", <br>
+".doc": "application/msword", <br>
+".docm": "application/vnd.ms-word.document.macroEnabled.12",<br>
+".docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",<br>
+".dot": "application/msword",<br>
+".dotm": "application/vnd.ms-word.template.macroEnabled.12",<br>
+".dotx": "application/vnd.openxmlformats-officedocument.wordprocessingml.template",<br>
+".dsp": "application/octet-stream", <br>
+".dsw": "text/plain", <br>
+".dtd": "text/xml", <br>
+".dtsConfig": "text/xml", <br>
+".dv": "video/x-dv", <br>
+".dvi": "application/x-dvi", <br>
+".dwf": "drawing/x-dwf", <br>
+".dwp": "application/octet-stream", <br>
+".dxr": "application/x-director", <br>
+".eml": "message/rfc822", <br>
+".emz": "application/octet-stream", <br>
+".eot": "application/octet-stream", <br>
+".eps": "application/postscript", <br>
+".etl": "application/etl", <br>
+".etx": "text/x-setext", <br>
+".evy": "application/envoy", <br>
+".exe": "application/octet-stream", <br>
+".exe.config": "text/xml", <br>
+".fdf": "application/vnd.fdf", <br>
+".fif": "application/fractals", <br>
+".filters": "Application/xml", <br>
+".fla": "application/octet-stream", <br>
+".flr": "x-world/x-vrml", <br>
+".flv": "video/x-flv", <br>
+".fsscript": "application/fsharp-script", <br>
+".fsx": "application/fsharp-script", <br>
+".generictest": "application/xml", <br>
+".gif": "image/gif", <br>
+".group": "text/x-ms-group", <br>
+".gsm": "audio/x-gsm", <br>
+".gtar": "application/x-gtar", <br>
+".gz": "application/x-gzip", <br>
+".h": "text/plain", <br>
+".hdf": "application/x-hdf", <br>
+".hdml": "text/x-hdml", <br>
+".hhc": "application/x-oleobject", <br>
+".hhk": "application/octet-stream", <br>
+".hhp": "application/octet-stream", <br>
+".hlp": "application/winhlp", <br>
+".hpp": "text/plain", <br>
+".hqx": "application/mac-binhex40", <br>
+".hta": "application/hta", <br>
+".htc": "text/x-component", <br>
+".htm": "text/html", <br>
+".html": "text/html", <br>
+".htt": "text/webviewhtml", <br>
+".hxa": "application/xml", <br>
+".hxc": "application/xml", <br>
+".hxd": "application/octet-stream", <br>
+".hxe": "application/xml", <br>
+".hxf": "application/xml", <br>
+".hxh": "application/octet-stream", <br>
+".hxi": "application/octet-stream", <br>
+".hxk": "application/xml", <br>
+".hxq": "application/octet-stream", <br>
+".hxr": "application/octet-stream", <br>
+".hxs": "application/octet-stream", <br>
+".hxt": "text/html", <br>
+".hxv": "application/xml", <br>
+".hxw": "application/octet-stream", <br>
+".hxx": "text/plain", <br>
+".i": "text/plain", <br>
+".ico": "image/x-icon", <br>
+".ics": "application/octet-stream", <br>
+".idl": "text/plain", <br>
+".ief": "image/ief", <br>
+".iii": "application/x-iphone", <br>
+".inc": "text/plain", <br>
+".inf": "application/octet-stream", <br>
+".inl": "text/plain", <br>
+".ins": "application/x-internet-signup", <br>
+".ipa": "application/x-itunes-ipa", <br>
+".ipg": "application/x-itunes-ipg", <br>
+".ipproj": "text/plain", <br>
+".ipsw": "application/x-itunes-ipsw", <br>
+".iqy": "text/x-ms-iqy", <br>
+".isp": "application/x-internet-signup", <br>
+".ite": "application/x-itunes-ite", <br>
+".itlp": "application/x-itunes-itlp", <br>
+".itms": "application/x-itunes-itms", <br>
+".itpc": "application/x-itunes-itpc", <br>
+".IVF": "video/x-ivf", <br>
+".jar": "application/java-archive", <br>
+".java": "application/octet-stream", <br>
+".jck": "application/liquidmotion", <br>
+".jcz": "application/liquidmotion", <br>
+".jfif": "image/pjpeg", <br>
+".jnlp": "application/x-java-jnlp-file", <br>
+".jpb": "application/octet-stream", <br>
+".jpe": "image/jpeg", <br>
+".jpeg": "image/jpeg", <br>
+".jpg": "image/jpeg", <br>
+".js": "application/x-javascript", <br>
+".json": "application/json", <br>
+".jsx": "text/jscript", <br>
+".jsxbin": "text/plain", <br>
+".latex": "application/x-latex", <br>
+".library-ms": "application/windows-library+xml",<br>
+".lit": "application/x-ms-reader", <br>
+".loadtest": "application/xml", <br>
+".lpk": "application/octet-stream", <br>
+".lsf": "video/x-la-asf", <br>
+".lst": "text/plain", <br>
+".lsx": "video/x-la-asf", <br>
+".lzh": "application/octet-stream", <br>
+".m13": "application/x-msmediaview", <br>
+".m14": "application/x-msmediaview", <br>
+".m1v": "video/mpeg", <br>
+".m2t": "video/vnd.dlna.mpeg-tts", <br>
+".m2ts": "video/vnd.dlna.mpeg-tts", <br>
+".m2v": "video/mpeg", <br>
+".m3u": "audio/x-mpegurl", <br>
+".m3u8": "audio/x-mpegurl", <br>
+".m4a": "audio/m4a", <br>
+".m4b": "audio/m4b", <br>
+".m4p": "audio/m4p", <br>
+".m4r": "audio/x-m4r", <br>
+".m4v": "video/x-m4v", <br>
+".mac": "image/x-macpaint", <br>
+".mak": "text/plain", <br>
+".man": "application/x-troff-man", <br>
+".manifest": "application/x-ms-manifest", <br>
+".map": "text/plain", <br>
+".master": "application/xml", <br>
+".mda": "application/msaccess", <br>
+".mdb": "application/x-msaccess", <br>
+".mde": "application/msaccess", <br>
+".mdp": "application/octet-stream", <br>
+".me": "application/x-troff-me", <br>
+".mfp": "application/x-shockwave-flash", <br>
+".mht": "message/rfc822", <br>
+".mhtml": "message/rfc822", <br>
+".mid": "audio/mid", <br>
+".midi": "audio/mid", <br>
+".mix": "application/octet-stream", <br>
+".mk": "text/plain", <br>
+".mmf": "application/x-smaf", <br>
+".mno": "text/xml", <br>
+".mny": "application/x-msmoney", <br>
+".mod": "video/mpeg", <br>
+".mov": "video/quicktime", <br>
+".movie": "video/x-sgi-movie", <br>
+".mp2": "video/mpeg", <br>
+".mp2v": "video/mpeg", <br>
+".mp3": "audio/mpeg", <br>
+".mp4": "video/mp4", <br>
+".mp4v": "video/mp4", <br>
+".mpa": "video/mpeg", <br>
+".mpe": "video/mpeg", <br>
+".mpeg": "video/mpeg", <br>
+".mpf": "application/vnd.ms-mediapackage", <br>
+".mpg": "video/mpeg", <br>
+".mpp": "application/vnd.ms-project", <br>
+".mpv2": "video/mpeg", <br>
+".mqv": "video/quicktime", <br>
+".ms": "application/x-troff-ms", <br>
+".msi": "application/octet-stream", <br>
+".mso": "application/octet-stream", <br>
+".mts": "video/vnd.dlna.mpeg-tts", <br>
+".mtx": "application/xml", <br>
+".mvb": "application/x-msmediaview", <br>
+".mvc": "application/x-miva-compiled", <br>
+".mxp": "application/x-mmxp", <br>
+".nc": "application/x-netcdf", <br>
+".nsc": "video/x-ms-asf", <br>
+".nws": "message/rfc822", <br>
+".ocx": "application/octet-stream", <br>
+".oda": "application/oda", <br>
+".odc": "text/x-ms-odc", <br>
+".odh": "text/plain", <br>
+".odl": "text/plain", <br>
+".odp": "application/vnd.oasis.opendocument.presentation",<br>
+".ods": "application/oleobject", <br>
+".odt": "application/vnd.oasis.opendocument.text", <br>
+".one": "application/onenote", <br>
+".onea": "application/onenote", <br>
+".onepkg": "application/onenote", <br>
+".onetmp": "application/onenote", <br>
+".onetoc": "application/onenote", <br>
+".onetoc2": "application/onenote", <br>
+".orderedtest": "application/xml", <br>
+".osdx": "application/opensearchdescription+xml", <br>
+".p10": "application/pkcs10", <br>
+".p12": "application/x-pkcs12", <br>
+".p7b": "application/x-pkcs7-certificates", <br>
+".p7c": "application/pkcs7-mime", <br>
+".p7m": "application/pkcs7-mime", <br>
+".p7r": "application/x-pkcs7-certreqresp", <br>
+".p7s": "application/pkcs7-signature", <br>
+".pbm": "image/x-portable-bitmap", <br>
+".pcast": "application/x-podcast", <br>
+".pct": "image/pict", <br>
+".pcx": "application/octet-stream", <br>
+".pcz": "application/octet-stream", <br>
+".pdf": "application/pdf", <br>
+".pfb": "application/octet-stream", <br>
+".pfm": "application/octet-stream", <br>
+".pfx": "application/x-pkcs12", <br>
+".pgm": "image/x-portable-graymap", <br>
+".pic": "image/pict", <br>
+".pict": "image/pict", <br>
+".pkgdef": "text/plain", <br>
+".pkgundef": "text/plain", <br>
+".pko": "application/vnd.ms-pki.pko", <br>
+".pls": "audio/scpls", <br>
+".pma": "application/x-perfmon", <br>
+".pmc": "application/x-perfmon", <br>
+".pml": "application/x-perfmon", <br>
+".pmr": "application/x-perfmon", <br>
+".pmw": "application/x-perfmon", <br>
+".png": "image/png", <br>
+".pnm": "image/x-portable-anymap", <br>
+".pnt": "image/x-macpaint", <br>
+".pntg": "image/x-macpaint", <br>
+".pnz": "image/png", <br>
+".pot": "application/vnd.ms-powerpoint", <br>
+".potm": "application/vnd.ms-powerpoint.template.macroEnabled.12",<br>
+".potx": "application/vnd.openxmlformats-officedocument.presentationml.template",<br>
+".ppa": "application/vnd.ms-powerpoint",<br>
+".ppam": "application/vnd.ms-powerpoint.addin.macroEnabled.12",<br>
+".ppm": "image/x-portable-pixmap",<br>
+".pps": "application/vnd.ms-powerpoint",<br>
+".ppsm": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12",<br>
+".ppsx": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",<br>
+".ppt": "application/vnd.ms-powerpoint",<br>
+".pptm": "application/vnd.ms-powerpoint.presentation.macroEnabled.12",<br>
+".pptx": "application/vnd.openxmlformats-officedocument.presentationml.presentation",<br>
+".prf": "application/pics-rules", <br>
+".prm": "application/octet-stream", <br>
+".prx": "application/octet-stream", <br>
+".ps": "application/postscript", <br>
+".psc1": "application/PowerShell", <br>
+".psd": "application/octet-stream", <br>
+".psess": "application/xml", <br>
+".psm": "application/octet-stream", <br>
+".psp": "application/octet-stream", <br>
+".pub": "application/x-mspublisher", <br>
+".pwz": "application/vnd.ms-powerpoint", <br>
+".qht": "text/x-html-insertion", <br>
+".qhtm": "text/x-html-insertion", <br>
+".qt": "video/quicktime", <br>
+".qti": "image/x-quicktime", <br>
+".qtif": "image/x-quicktime", <br>
+".qtl": "application/x-quicktimeplayer", <br>
+".qxd": "application/octet-stream", <br>
+".ra": "audio/x-pn-realaudio", <br>
+".ram": "audio/x-pn-realaudio", <br>
+".rar": "application/octet-stream", <br>
+".ras": "image/x-cmu-raster", <br>
+".rat": "application/rat-file", <br>
+".rc": "text/plain", <br>
+".rc2": "text/plain", <br>
+".rct": "text/plain", <br>
+".rdlc": "application/xml", <br>
+".resx": "application/xml", <br>
+".rf": "image/vnd.rn-realflash", <br>
+".rgb": "image/x-rgb", <br>
+".rgs": "text/plain", <br>
+".rm": "application/vnd.rn-realmedia", <br>
+".rmi": "audio/mid", <br>
+".rmp": "application/vnd.rn-rn_music_package", <br>
+".roff": "application/x-troff", <br>
+".rpm": "audio/x-pn-realaudio-plugin", <br>
+".rqy": "text/x-ms-rqy", <br>
+".rtf": "application/rtf", <br>
+".rtx": "text/richtext", <br>
+".ruleset": "application/xml", <br>
+".s": "text/plain", <br>
+".safariextz": "application/x-safari-safariextz", <br>
+".scd": "application/x-msschedule", <br>
+".sct": "text/scriptlet", <br>
+".sd2": "audio/x-sd2", <br>
+".sdp": "application/sdp", <br>
+".sea": "application/octet-stream", <br>
+".searchConnector-ms": "application/windows-search-connector+xml", <br>
+".setpay": "application/set-payment-initiation", <br>
+".setreg": "application/set-registration-initiation", <br>
+".settings": "application/xml", <br>
+".sgimb": "application/x-sgimb", <br>
+".sgml": "text/sgml", <br>
+".sh": "application/x-sh", <br>
+".shar": "application/x-shar", <br>
+".shtml": "text/html", <br>
+".sit": "application/x-stuffit", <br>
+".sitemap": "application/xml", <br>
+".skin": "application/xml", <br>
+".sldm": "application/vnd.ms-powerpoint.slide.macroEnabled.12", <br>
+".sldx": "application/vnd.openxmlformats-officedocument.presentationml.slide",<br>
+".slk": "application/vnd.ms-excel", <br>
+".sln": "text/plain", <br>
+".slupkg-ms": "application/x-ms-license", <br>
+".smd": "audio/x-smd", <br>
+".smi": "application/octet-stream", <br>
+".smx": "audio/x-smd", <br>
+".smz": "audio/x-smd", <br>
+".snd": "audio/basic", <br>
+".snippet": "application/xml", <br>
+".snp": "application/octet-stream", <br>
+".sol": "text/plain", <br>
+".sor": "text/plain", <br>
+".spc": "application/x-pkcs7-certificates", <br>
+".spl": "application/futuresplash", <br>
+".src": "application/x-wais-source", <br>
+".srf": "text/plain", <br>
+".SSISDeploymentManifest": "text/xml", <br>
+".ssm": "application/streamingmedia", <br>
+".sst": "application/vnd.ms-pki.certstore", <br>
+".stl": "application/vnd.ms-pki.stl", <br>
+".sv4cpio": "application/x-sv4cpio", <br>
+".sv4crc": "application/x-sv4crc", <br>
+".svc": "application/xml", <br>
+".swf": "application/x-shockwave-flash", <br>
+".t": "application/x-troff", <br>
+".tar": "application/x-tar", <br>
+".tcl": "application/x-tcl", <br>
+".testrunconfig": "application/xml", <br>
+".testsettings": "application/xml", <br>
+".tex": "application/x-tex", <br>
+".texi": "application/x-texinfo", <br>
+".texinfo": "application/x-texinfo", <br>
+".tgz": "application/x-compressed", <br>
+".thmx": "application/vnd.ms-officetheme", <br>
+".thn": "application/octet-stream", <br>
+".tif": "image/tiff", <br>
+".tiff": "image/tiff", <br>
+".tlh": "text/plain", <br>
+".tli": "text/plain", <br>
+".toc": "application/octet-stream", <br>
+".tr": "application/x-troff", <br>
+".trm": "application/x-msterminal", <br>
+".trx": "application/xml", <br>
+".ts": "video/vnd.dlna.mpeg-tts", <br>
+".tsv": "text/tab-separated-values", <br>
+".ttf": "application/octet-stream", <br>
+".tts": "video/vnd.dlna.mpeg-tts", <br>
+".txt": "text/plain", <br>
+".u32": "application/octet-stream", <br>
+".uls": "text/iuls", <br>
+".user": "text/plain", <br>
+".ustar": "application/x-ustar", <br>
+".vb": "text/plain", <br>
+".vbdproj": "text/plain", <br>
+".vbk": "video/mpeg", <br>
+".vbproj": "text/plain", <br>
+".vbs": "text/vbscript", <br>
+".vcf": "text/x-vcard", <br>
+".vcproj": "Application/xml", <br>
+".vcs": "text/plain", <br>
+".vcxproj": "Application/xml", <br>
+".vddproj": "text/plain", <br>
+".vdp": "text/plain", <br>
+".vdproj": "text/plain", <br>
+".vdx": "application/vnd.ms-visio.viewer", <br>
+".vml": "text/xml", <br>
+".vscontent": "application/xml", <br>
+".vsct": "text/xml", <br>
+".vsd": "application/vnd.visio", <br>
+".vsi": "application/ms-vsi", <br>
+".vsix": "application/vsix", <br>
+".vsixlangpack": "text/xml", <br>
+".vsixmanifest": "text/xml", <br>
+".vsmdi": "application/xml", <br>
+".vspscc": "text/plain", <br>
+".vss": "application/vnd.visio", <br>
+".vsscc": "text/plain", <br>
+".vssettings": "text/xml", <br>
+".vssscc": "text/plain", <br>
+".vst": "application/vnd.visio", <br>
+".vstemplate": "text/xml", <br>
+".vsto": "application/x-ms-vsto", <br>
+".vsw": "application/vnd.visio", <br>
+".vsx": "application/vnd.visio", <br>
+".vtx": "application/vnd.visio", <br>
+".wav": "audio/wav", <br>
+".wave": "audio/wav", <br>
+".wax": "audio/x-ms-wax", <br>
+".wbk": "application/msword", <br>
+".wbmp": "image/vnd.wap.wbmp", <br>
+".wcm": "application/vnd.ms-works", <br>
+".wdb": "application/vnd.ms-works", <br>
+".wdp": "image/vnd.ms-photo", <br>
+".webarchive": "application/x-safari-webarchive",<br>
+".webtest": "application/xml", <br>
+".wiq": "application/xml", <br>
+".wiz": "application/msword", <br>
+".wks": "application/vnd.ms-works", <br>
+".WLMP": "application/wlmoviemaker", <br>
+".wlpginstall": "application/x-wlpg-detect", <br>
+".wlpginstall3": "application/x-wlpg3-detect", <br>
+".wm": "video/x-ms-wm", <br>
+".wma": "audio/x-ms-wma", <br>
+".wmd": "application/x-ms-wmd", <br>
+".wmf": "application/x-msmetafile", <br>
+".wml": "text/vnd.wap.wml", <br>
+".wmlc": "application/vnd.wap.wmlc", <br>
+".wmls": "text/vnd.wap.wmlscript", <br>
+".wmlsc": "application/vnd.wap.wmlscriptc", <br>
+".wmp": "video/x-ms-wmp", <br>
+".wmv": "video/x-ms-wmv", <br>
+".wmx": "video/x-ms-wmx", <br>
+".wmz": "application/x-ms-wmz", <br>
+".wpl": "application/vnd.ms-wpl", <br>
+".wps": "application/vnd.ms-works", <br>
+".wri": "application/x-mswrite", <br>
+".wrl": "x-world/x-vrml", <br>
+".wrz": "x-world/x-vrml", <br>
+".wsc": "text/scriptlet", <br>
+".wsdl": "text/xml", <br>
+".wvx": "video/x-ms-wvx", <br>
+".x": "application/directx", <br>
+".xaf": "x-world/x-vrml", <br>
+".xaml": "application/xaml+xml", <br>
+".xap": "application/x-silverlight-app", <br>
+".xbap": "application/x-ms-xbap", <br>
+".xbm": "image/x-xbitmap", <br>
+".xdr": "text/plain", <br>
+".xht": "application/xhtml+xml", <br>
+".xhtml": "application/xhtml+xml", <br>
+".xla": "application/vnd.ms-excel", <br>
+".xlam": "application/vnd.ms-excel.addin.macroEnabled.12",<br> <br>
+".xlc": "application/vnd.ms-excel", <br>
+".xld": "application/vnd.ms-excel", <br>
+".xlk": "application/vnd.ms-excel", <br>
+".xll": "application/vnd.ms-excel", <br>
+".xlm": "application/vnd.ms-excel", <br>
+".xls": "application/vnd.ms-excel", <br>
+".xlsb": "application/vnd.ms-excel.sheet.binary.macroEnabled.12", <br>
+".xlsm": "application/vnd.ms-excel.sheet.macroEnabled.12", <br>
+".xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", <br>
+".xlt": "application/vnd.ms-excel", <br>
+".xltm": "application/vnd.ms-excel.template.macroEnabled.12", <br>
+".xltx": "application/vnd.openxmlformats-officedocument.spreadsheetml.template", <br>
+".xlw": "application/vnd.ms-excel", <br>
+".xml": "text/xml", <br>
+".xmta": "application/xml", <br>
+".xof": "x-world/x-vrml", <br>
+".XOML": "text/plain", <br>
+".xpm": "image/x-xpixmap", <br>
+".xps": "application/vnd.ms-xpsdocument", <br>
+".xrm-ms": "text/xml", <br>
+".xsc": "application/xml", <br>
+".xsd": "text/xml", <br>
+".xsf": "text/xml", <br>
+".xsl": "text/xml", <br>
+".xslt": "text/xml", <br>
+".xsn": "application/octet-stream", <br>
+".xss": "application/xml", <br>
+".xtp": "application/octet-stream", <br>
+".xwd": "image/x-xwindowdump", <br>
+".z": "application/x-compress", <br>
+".zip": "application/x-zip-compressed" <br>
