@@ -1,6 +1,5 @@
-# FileContentTypes
+# File Content Types
 
-File Conent Types
 
 ".323": "text/h323", <br>
 ".3g2": "video/3gpp2", <br>
